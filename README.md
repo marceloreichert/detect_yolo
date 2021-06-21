@@ -1,4 +1,4 @@
-# Yolo
+# Detect with Yolo
 
 To start your Phoenix server:
 
